@@ -1,4 +1,5 @@
-let marks =99 ; 
+// Simple grade calculator example
+let marks = 50 ; 
 let grade;
 if (marks >= 90 && marks <= 100) {
     grade = "A" ;
