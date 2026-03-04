@@ -1,0 +1,17 @@
+//4️⃣ Print the sum of first 10 natural numbers
+//for Loop
+let sum=0;
+for(let i=1;i<=10;i++){
+    sum=sum+i;
+    console.log("sum of first" +" "+ i +" "+"natural numbers is :"+sum);
+}
+  
+//while loop
+let j=1;
+let total=0;
+while(j<=10){
+    total=total+j;
+    console.log("total of first" +" "+ j +" "+"natural numbers is :"+total);
+    j++;
+
+}
