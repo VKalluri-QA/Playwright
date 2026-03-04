@@ -1,4 +1,3 @@
-// Simple grade calculator example
 let marks = 50 ; 
 let grade;
 if (marks >= 90 && marks <= 100) {
