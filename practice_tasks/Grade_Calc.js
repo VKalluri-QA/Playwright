@@ -1,26 +1,14 @@
-let marks =99 ; 
-let grade;
+let marks = 99 ; // Example score value
 if (marks >= 90 && marks <= 100) {
-    grade = "A" ;
-    console.log("You got"+" "+grade);
+    console.log("You got an A!");
 } else if (marks >= 80 && marks < 90) {
-     grade = "B" ;
-    console.log("You got"+" "+grade);
+    console.log("You got a B!");
 } else if (marks >= 70 && marks < 80) {
-     grade = "C";
-     console.log("You got"+" "+grade);
+    console.log("You got a C!");
 } else if (marks >= 60 && marks < 70) {
-     grade ="D" ;
-    console.log("You got"+" "+grade);
-} else if (marks >= 50 && marks < 60) {          
-     grade = "E" ;
-     console.log("You got"+" "+grade);
-}else if(marks>=30 && marks <50){
-    grade = "F";
-    console.log("You got"+" "+grade)
-}else if(marks<30){
-    console.log("You Failed")
-}
-else {
+    console.log("You got a D!");
+} else if (marks >= 0 && marks < 60) {          
+    console.log("You got an F!");
+}else {
     console.log("Invalid score. Please enter a score between 0 and 100.");
 }
