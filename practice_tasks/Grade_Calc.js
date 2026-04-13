@@ -4,7 +4,7 @@ if (marks >= 90 && marks <= 100) {
     grade = "A" ;
     console.log(`You got , ${grade}`);
 } else if (marks >= 80 && marks < 90) {
-     grade = "B" ;
+   git  grade = "B" ;
     console.log(`You got , ${grade}`);
 } else if (marks >= 70 && marks < 80) {
      grade = "C";
