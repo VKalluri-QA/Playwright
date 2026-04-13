@@ -1,0 +1,539 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]:
+          - generic [ref=e12]:
+            - img
+        - generic [ref=e13]:
+          - link "YouTube Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e19]:
+              - img
+          - generic [ref=e20]: IN
+        - button "Skip navigation" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Skip navigation
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]:
+            - combobox "Search" [expanded] [ref=e34]
+            - button "Search" [ref=e35] [cursor=pointer]:
+              - generic [ref=e38]:
+                - img
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]:
+            - generic [ref=e46]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e51]:
+        - button "Settings" [ref=e56] [cursor=pointer]:
+          - generic [ref=e59]:
+            - img
+        - link "Sign in" [ref=e62] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253Dj5K64se4aXM&hl=en&ec=65620
+          - generic [ref=e66]:
+            - img
+          - generic [ref=e67]: Sign in
+  - main [ref=e72]:
+    - generic [ref=e73]:
+      - generic [ref=e75]:
+        - complementary [ref=e82]:
+          - generic "YouTube Video Player" [active] [ref=e85]:
+            - button "Play" [ref=e89] [cursor=pointer]:
+              - img
+            - generic [ref=e90]:
+              - generic [ref=e91] [cursor=pointer]:
+                - slider "Seek slider" [ref=e92]
+                - generic:
+                  - generic:
+                    - generic:
+                      - slider "Click or scroll the panel for the precise seeking."
+              - generic [ref=e149]:
+                - generic [ref=e150]:
+                  - button "Pause (k)" [ref=e151] [cursor=pointer]:
+                    - img
+                  - generic [ref=e152]:
+                    - button "Mute (m)" [ref=e154] [cursor=pointer]:
+                      - img
+                    - slider "Volume"
+                  - button "0 Minutes 0 Seconds of 1 Hours 44 Minutes 48 Seconds" [ref=e158] [cursor=pointer]: 0:00 / 1:44:48
+                  - button "Intro" [ref=e160] [cursor=pointer]:
+                    - generic "Intro" [ref=e161]
+                    - generic [ref=e162]:
+                      - img
+                - generic [ref=e163]:
+                  - generic [ref=e164]:
+                    - button "Autoplay is on" [ref=e165] [cursor=pointer]
+                    - button "Subtitles/closed captions unavailable" [ref=e168] [cursor=pointer]:
+                      - generic [ref=e169]:
+                        - img
+                    - button "Settings" [ref=e170] [cursor=pointer]:
+                      - img
+                  - generic [ref=e171]:
+                    - button "Theater mode (t)" [ref=e172] [cursor=pointer]:
+                      - img
+                    - button "Full screen (f)" [ref=e173] [cursor=pointer]:
+                      - img
+        - generic [ref=e174]:
+          - generic [ref=e176]:
+            - heading "02. Informatica data quality profiling by Sudhakarreddy." [level=1] [ref=e178]
+            - generic [ref=e179]:
+              - generic [ref=e180]:
+                - generic [ref=e181]:
+                  - link [ref=e182] [cursor=pointer]:
+                    - /url: /@idqbysudhakarreddy9419
+                  - generic [ref=e184]:
+                    - generic "IDQ By sudhakarreddy" [ref=e188]:
+                      - link "IDQ By sudhakarreddy" [ref=e189] [cursor=pointer]:
+                        - /url: /@idqbysudhakarreddy9419
+                    - generic "2.29 thousand subscribers" [ref=e190]: 2.29K subscribers
+                - generic [ref=e194]:
+                  - button "Subscribe to IDQ By sudhakarreddy." [ref=e196] [cursor=pointer]:
+                    - generic [ref=e197]: Subscribe
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                    - generic:
+                      - img
+              - generic [ref=e204]:
+                - generic [ref=e205]:
+                  - generic [ref=e209]:
+                    - button "like this video along with 189 other people" [ref=e213] [cursor=pointer]:
+                      - generic [ref=e217]:
+                        - img
+                      - generic [ref=e218]: "189"
+                    - button "Dislike this video" [ref=e225] [cursor=pointer]:
+                      - generic [ref=e229]:
+                        - img
+                  - button "Share" [ref=e235] [cursor=pointer]:
+                    - generic [ref=e239]:
+                      - img
+                    - generic [ref=e240]: Share
+                - generic [ref=e246]:
+                  - button "Download" [ref=e248] [cursor=pointer]:
+                    - generic [ref=e252]:
+                      - img
+                    - generic [ref=e253]: Download
+                  - tooltip "tooltip"
+                - button "More actions" [ref=e258] [cursor=pointer]:
+                  - generic [ref=e262]:
+                    - img
+            - generic [ref=e268] [cursor=pointer]:
+              - generic [ref=e269]:
+                - generic [ref=e271]: 41K views 8 years ago
+                - tooltip "tooltip"
+              - generic [ref=e272]:
+                - generic [ref=e276]: This video will describe data profiling in in informatica data quality(IDQ).
+                - button "...more" [ref=e277]
+          - text: •
+      - generic [ref=e355]:
+        - generic [ref=e357] [cursor=pointer]:
+          - link [ref=e358]:
+            - /url: /watch?v=QfICaadzimc
+            - generic [ref=e365]: 1:34:02
+          - generic [ref=e367]:
+            - generic [ref=e368]:
+              - heading "01. Informatica Data Quality introduction by Sudhakarreddy 1 hour, 34 minutes" [level=3] [ref=e369]:
+                - link "01. Informatica Data Quality introduction by Sudhakarreddy 1 hour, 34 minutes" [ref=e370]:
+                  - /url: /watch?v=QfICaadzimc
+                  - text: 01. Informatica Data Quality introduction by Sudhakarreddy
+              - generic [ref=e372]:
+                - generic [ref=e374]: IDQ By sudhakarreddy
+                - generic [ref=e375]:
+                  - generic [ref=e376]: 37K views
+                  - generic [ref=e377]: •
+                  - generic [ref=e378]: 8 years ago
+            - button "More actions" [ref=e381]:
+              - generic [ref=e385]:
+                - img
+        - generic [ref=e390] [cursor=pointer]:
+          - link [ref=e391]:
+            - /url: /watch?v=-7b07wvLPQg
+            - generic [ref=e398]: 50:36
+          - generic [ref=e400]:
+            - generic [ref=e401]:
+              - heading "03. Informatica data quality reference tables and rules by Sudhakarreddy 50 minutes" [level=3] [ref=e402]:
+                - link "03. Informatica data quality reference tables and rules by Sudhakarreddy 50 minutes" [ref=e403]:
+                  - /url: /watch?v=-7b07wvLPQg
+                  - text: 03. Informatica data quality reference tables and rules by Sudhakarreddy
+              - generic [ref=e405]:
+                - generic [ref=e407]: IDQ By sudhakarreddy
+                - generic [ref=e408]:
+                  - generic [ref=e409]: 16K views
+                  - generic [ref=e410]: •
+                  - generic [ref=e411]: 8 years ago
+            - button "More actions" [ref=e414]:
+              - generic [ref=e418]:
+                - img
+        - generic [ref=e423] [cursor=pointer]:
+          - link [ref=e424]:
+            - /url: /watch?v=RWX2mj_yh5o
+            - generic [ref=e431]: 57:18
+          - generic [ref=e433]:
+            - generic [ref=e434]:
+              - 'heading "DAS Webinar: Master Data Management – Aligning Data, Process, and Governance 57 minutes" [level=3] [ref=e435]':
+                - 'link "DAS Webinar: Master Data Management – Aligning Data, Process, and Governance 57 minutes" [ref=e436]':
+                  - /url: /watch?v=RWX2mj_yh5o
+                  - text: "DAS Webinar: Master Data Management – Aligning Data, Process, and Governance"
+              - generic [ref=e438]:
+                - generic [ref=e440]: DATAVERSITY
+                - generic [ref=e441]:
+                  - generic [ref=e442]: 80K views
+                  - generic [ref=e443]: •
+                  - generic [ref=e444]: 6 years ago
+            - button "More actions" [ref=e447]:
+              - generic [ref=e451]:
+                - img
+        - generic [ref=e456] [cursor=pointer]:
+          - link [ref=e457]:
+            - /url: /watch?v=AumYZGknPVM&list=PLRt-r4QiDOMcmg7_TO-jBagkLvRxWx_q_
+            - generic [ref=e467]:
+              - generic [ref=e470]:
+                - img
+              - generic [ref=e471]: 8 videos
+          - generic [ref=e474]:
+            - heading "Informatica Data Quality - IDQ" [level=3] [ref=e475]:
+              - link "Informatica Data Quality - IDQ" [ref=e476]:
+                - /url: /watch?v=AumYZGknPVM&list=PLRt-r4QiDOMcmg7_TO-jBagkLvRxWx_q_
+            - generic [ref=e478]:
+              - generic [ref=e479]:
+                - link "The MDM Guru" [ref=e482]:
+                  - /url: /@sandipm
+                - generic [ref=e483]: •
+                - link "Playlist" [ref=e486]:
+                  - /url: /@sandipm
+              - link "View full playlist" [ref=e490]:
+                - /url: /playlist?list=PLRt-r4QiDOMcmg7_TO-jBagkLvRxWx_q_
+        - generic [ref=e492] [cursor=pointer]:
+          - link [ref=e493]:
+            - /url: /watch?v=yRerKDM1h74&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e500]: 16:18
+          - generic [ref=e502]:
+            - generic [ref=e503]:
+              - heading "Data Warehouse vs Data Lake vs Data Lakehouse | ETL, OLAP vs OLTP 16 minutes" [level=3] [ref=e504]:
+                - link "Data Warehouse vs Data Lake vs Data Lakehouse | ETL, OLAP vs OLTP 16 minutes" [ref=e505]:
+                  - /url: /watch?v=yRerKDM1h74&pp=ugUEEgJlbg%3D%3D
+                  - text: Data Warehouse vs Data Lake vs Data Lakehouse | ETL, OLAP vs OLTP
+              - generic [ref=e507]:
+                - generic [ref=e509]:
+                  - text: codebasics
+                  - img [ref=e512]:
+                    - generic [ref=e514]:
+                      - img
+                - generic [ref=e515]:
+                  - generic [ref=e516]: 112K views
+                  - generic [ref=e517]: •
+                  - generic [ref=e518]: 5 months ago
+            - button "More actions" [ref=e521]:
+              - generic [ref=e525]:
+                - img
+        - generic [ref=e530] [cursor=pointer]:
+          - link [ref=e531]:
+            - /url: /watch?v=F2FmTdLtb_4
+            - generic [ref=e538]: 53:38
+          - generic [ref=e540]:
+            - generic [ref=e541]:
+              - heading "System Design Concepts Course and Interview Prep 53 minutes" [level=3] [ref=e542]:
+                - link "System Design Concepts Course and Interview Prep 53 minutes" [ref=e543]:
+                  - /url: /watch?v=F2FmTdLtb_4
+                  - text: System Design Concepts Course and Interview Prep
+              - generic [ref=e545]:
+                - generic [ref=e547]:
+                  - text: freeCodeCamp.org
+                  - img [ref=e550]:
+                    - generic [ref=e552]:
+                      - img
+                - generic [ref=e553]:
+                  - generic [ref=e554]: 2.4M views
+                  - generic [ref=e555]: •
+                  - generic [ref=e556]: 1 year ago
+            - button "More actions" [ref=e559]:
+              - generic [ref=e563]:
+                - img
+        - generic [ref=e568] [cursor=pointer]:
+          - link [ref=e569]:
+            - /url: /watch?v=5uNifnVlBy4
+            - generic [ref=e576]: 31:15
+          - generic [ref=e578]:
+            - generic [ref=e579]:
+              - 'heading "Cybersecurity Architecture: Who Are You? Identity and Access Management 31 minutes" [level=3] [ref=e580]':
+                - 'link "Cybersecurity Architecture: Who Are You? Identity and Access Management 31 minutes" [ref=e581]':
+                  - /url: /watch?v=5uNifnVlBy4
+                  - text: "Cybersecurity Architecture: Who Are You? Identity and Access Management"
+              - generic [ref=e583]:
+                - generic [ref=e585]:
+                  - text: IBM Technology
+                  - img [ref=e588]:
+                    - generic [ref=e590]:
+                      - img
+                - generic [ref=e591]:
+                  - generic [ref=e592]: 461K views
+                  - generic [ref=e593]: •
+                  - generic [ref=e594]: 2 years ago
+            - button "More actions" [ref=e597]:
+              - generic [ref=e601]:
+                - img
+        - generic [ref=e606] [cursor=pointer]:
+          - link [ref=e607]:
+            - /url: /watch?v=Ww71knvhQ-s&pp=ugUEEgJlbg%3D%3D
+            - generic [ref=e614]: 24:55
+          - generic [ref=e616]:
+            - generic [ref=e617]:
+              - heading "SQL Window Function | How to write SQL Query using RANK, DENSE RANK, LEAD/LAG | SQL Queries Tutorial 24 minutes" [level=3] [ref=e618]:
+                - link "SQL Window Function | How to write SQL Query using RANK, DENSE RANK, LEAD/LAG | SQL Queries Tutorial 24 minutes" [ref=e619]:
+                  - /url: /watch?v=Ww71knvhQ-s&pp=ugUEEgJlbg%3D%3D
+                  - text: SQL Window Function | How to write SQL Query using RANK, DENSE RANK, LEAD/LAG | SQL Queries Tutorial
+              - generic [ref=e621]:
+                - generic [ref=e623]: techTFQ
+                - generic [ref=e624]:
+                  - generic [ref=e625]: 1.4M views
+                  - generic [ref=e626]: •
+                  - generic [ref=e627]: 4 years ago
+            - button "More actions" [ref=e630]:
+              - generic [ref=e634]:
+                - img
+        - generic [ref=e639] [cursor=pointer]:
+          - link [ref=e640]:
+            - /url: /watch?v=tklkyVa7KZo
+            - generic [ref=e647]: 26:04
+          - generic [ref=e649]:
+            - generic [ref=e650]:
+              - heading "Stream API in Java 26 minutes" [level=3] [ref=e651]:
+                - link "Stream API in Java 26 minutes" [ref=e652]:
+                  - /url: /watch?v=tklkyVa7KZo
+                  - text: Stream API in Java
+              - generic [ref=e654]:
+                - generic [ref=e656]:
+                  - text: Telusko
+                  - img [ref=e659]:
+                    - generic [ref=e661]:
+                      - img
+                - generic [ref=e662]:
+                  - generic [ref=e663]: 543K views
+                  - generic [ref=e664]: •
+                  - generic [ref=e665]: 3 years ago
+            - button "More actions" [ref=e668]:
+              - generic [ref=e672]:
+                - img
+        - generic [ref=e677] [cursor=pointer]:
+          - link [ref=e678]:
+            - /url: /watch?v=P1IHVdeOvGk
+            - generic [ref=e685]: 1:17:22
+          - generic [ref=e687]:
+            - generic [ref=e688]:
+              - heading "04. Informatica data quality Parser and standardizer transformation. 1 hour, 17 minutes" [level=3] [ref=e689]:
+                - link "04. Informatica data quality Parser and standardizer transformation. 1 hour, 17 minutes" [ref=e690]:
+                  - /url: /watch?v=P1IHVdeOvGk
+                  - text: 04. Informatica data quality Parser and standardizer transformation.
+              - generic [ref=e692]:
+                - generic [ref=e694]: IDQ By sudhakarreddy
+                - generic [ref=e695]:
+                  - generic [ref=e696]: 28K views
+                  - generic [ref=e697]: •
+                  - generic [ref=e698]: 8 years ago
+            - button "More actions" [ref=e701]:
+              - generic [ref=e705]:
+                - img
+        - generic [ref=e710] [cursor=pointer]:
+          - link [ref=e711]:
+            - /url: /watch?v=sesacY7Xz3c
+            - generic [ref=e718]: 27:31
+          - generic [ref=e720]:
+            - generic [ref=e721]:
+              - 'heading "Cybersecurity Architecture: Networks 27 minutes" [level=3] [ref=e722]':
+                - 'link "Cybersecurity Architecture: Networks 27 minutes" [ref=e723]':
+                  - /url: /watch?v=sesacY7Xz3c
+                  - text: "Cybersecurity Architecture: Networks"
+              - generic [ref=e725]:
+                - generic [ref=e727]:
+                  - text: IBM Technology
+                  - img [ref=e730]:
+                    - generic [ref=e732]:
+                      - img
+                - generic [ref=e733]:
+                  - generic [ref=e734]: 471K views
+                  - generic [ref=e735]: •
+                  - generic [ref=e736]: 2 years ago
+            - button "More actions" [ref=e739]:
+              - generic [ref=e743]:
+                - img
+        - generic [ref=e748] [cursor=pointer]:
+          - link [ref=e749]:
+            - /url: /watch?v=V1X4P5QfKiU
+            - generic [ref=e756]: 1:18:30
+          - generic [ref=e758]:
+            - generic [ref=e759]:
+              - heading "08. IDQ complete mapping implementation with business requirements by sudhakarreddy. 1 hour, 18 minutes" [level=3] [ref=e760]:
+                - link "08. IDQ complete mapping implementation with business requirements by sudhakarreddy. 1 hour, 18 minutes" [ref=e761]:
+                  - /url: /watch?v=V1X4P5QfKiU
+                  - text: 08. IDQ complete mapping implementation with business requirements by sudhakarreddy.
+              - generic [ref=e763]:
+                - generic [ref=e765]: IDQ By sudhakarreddy
+                - generic [ref=e766]:
+                  - generic [ref=e767]: 10K views
+                  - generic [ref=e768]: •
+                  - generic [ref=e769]: 8 years ago
+            - button "More actions" [ref=e772]:
+              - generic [ref=e776]:
+                - img
+        - generic [ref=e781] [cursor=pointer]:
+          - link [ref=e782]:
+            - /url: /watch?v=4BibQ69MD8c&pp=0gcJCcUKAYcqIYzv
+            - generic [ref=e789]: 36:29
+          - generic [ref=e791]:
+            - generic [ref=e792]:
+              - heading "Azure DevOps Tutorial for Beginners | CI/CD with Azure Pipelines 36 minutes" [level=3] [ref=e793]:
+                - link "Azure DevOps Tutorial for Beginners | CI/CD with Azure Pipelines 36 minutes" [ref=e794]:
+                  - /url: /watch?v=4BibQ69MD8c&pp=0gcJCcUKAYcqIYzv
+                  - text: Azure DevOps Tutorial for Beginners | CI/CD with Azure Pipelines
+              - generic [ref=e796]:
+                - generic [ref=e798]: TechWorld with Nana
+                - generic [ref=e799]:
+                  - generic [ref=e800]: 1.9M views
+                  - generic [ref=e801]: •
+                  - generic [ref=e802]: 3 years ago
+            - button "More actions" [ref=e805]:
+              - generic [ref=e809]:
+                - img
+        - generic [ref=e814] [cursor=pointer]:
+          - link [ref=e815]:
+            - /url: /watch?v=1qqp4rMcfs0
+            - generic [ref=e822]: 1:22:01
+          - generic [ref=e824]:
+            - generic [ref=e825]:
+              - heading "Informatica Data Governance Automation (The Axon – EDC – DQ Story) 1 hour, 22 minutes" [level=3] [ref=e826]:
+                - link "Informatica Data Governance Automation (The Axon – EDC – DQ Story) 1 hour, 22 minutes" [ref=e827]:
+                  - /url: /watch?v=1qqp4rMcfs0
+                  - text: Informatica Data Governance Automation (The Axon – EDC – DQ Story)
+              - generic [ref=e829]:
+                - generic [ref=e831]: Informatica Support
+                - generic [ref=e832]:
+                  - generic [ref=e833]: 23K views
+                  - generic [ref=e834]: •
+                  - generic [ref=e835]: 5 years ago
+            - button "More actions" [ref=e838]:
+              - generic [ref=e842]:
+                - img
+        - generic [ref=e847] [cursor=pointer]:
+          - link [ref=e848]:
+            - /url: /watch?v=WORz_qfjNC0
+            - generic [ref=e855]: 57:37
+          - generic [ref=e857]:
+            - generic [ref=e858]:
+              - heading "06. Informatica data quality Match, consolidation and exception transformation by sudhakarreddy 57 minutes" [level=3] [ref=e859]:
+                - link "06. Informatica data quality Match, consolidation and exception transformation by sudhakarreddy 57 minutes" [ref=e860]:
+                  - /url: /watch?v=WORz_qfjNC0
+                  - text: 06. Informatica data quality Match, consolidation and exception transformation by sudhakarreddy
+              - generic [ref=e862]:
+                - generic [ref=e864]: IDQ By sudhakarreddy
+                - generic [ref=e865]:
+                  - generic [ref=e866]: 33K views
+                  - generic [ref=e867]: •
+                  - generic [ref=e868]: 8 years ago
+            - button "More actions" [ref=e871]:
+              - generic [ref=e875]:
+                - img
+        - generic [ref=e880] [cursor=pointer]:
+          - link [ref=e881]:
+            - /url: /watch?v=2t-ls6ekA8E
+            - generic [ref=e888]: 57:50
+          - generic [ref=e890]:
+            - generic [ref=e891]:
+              - heading "Learn Snowflake – Full 1-Hour Crash Course for Complete Beginners 57 minutes" [level=3] [ref=e892]:
+                - link "Learn Snowflake – Full 1-Hour Crash Course for Complete Beginners 57 minutes" [ref=e893]:
+                  - /url: /watch?v=2t-ls6ekA8E
+                  - text: Learn Snowflake – Full 1-Hour Crash Course for Complete Beginners
+              - generic [ref=e895]:
+                - generic [ref=e897]: Tom Bailey
+                - generic [ref=e898]:
+                  - generic [ref=e899]: 31K views
+                  - generic [ref=e900]: •
+                  - generic [ref=e901]: 3 months ago
+            - button "More actions" [ref=e904]:
+              - generic [ref=e908]:
+                - img
+        - generic [ref=e913] [cursor=pointer]:
+          - link [ref=e914]:
+            - /url: /watch?v=___q_RagNNk
+            - generic [ref=e921]: 54:23
+          - generic [ref=e923]:
+            - generic [ref=e924]:
+              - heading "Performance Tuning In Informatica 54 minutes" [level=3] [ref=e925]:
+                - link "Performance Tuning In Informatica 54 minutes" [ref=e926]:
+                  - /url: /watch?v=___q_RagNNk
+                  - text: Performance Tuning In Informatica
+              - generic [ref=e928]:
+                - generic [ref=e930]: Venkata Subba Rao Munjuluru
+                - generic [ref=e931]:
+                  - generic [ref=e932]: 40K views
+                  - generic [ref=e933]: •
+                  - generic [ref=e934]: 7 years ago
+            - button "More actions" [ref=e937]:
+              - generic [ref=e941]:
+                - img
+        - generic [ref=e946] [cursor=pointer]:
+          - link [ref=e947]:
+            - /url: /watch?v=HIj8wU_rGIU
+            - generic [ref=e954]: 33:08
+          - generic [ref=e956]:
+            - generic [ref=e957]:
+              - heading "How to Start Coding | Programming for Beginners | Learn Coding | Intellipaat 33 minutes" [level=3] [ref=e958]:
+                - link "How to Start Coding | Programming for Beginners | Learn Coding | Intellipaat 33 minutes" [ref=e959]:
+                  - /url: /watch?v=HIj8wU_rGIU
+                  - text: How to Start Coding | Programming for Beginners | Learn Coding | Intellipaat
+              - generic [ref=e961]:
+                - generic [ref=e963]:
+                  - text: Intellipaat
+                  - img [ref=e966]:
+                    - generic [ref=e968]:
+                      - img
+                - generic [ref=e969]:
+                  - generic [ref=e970]: 10M views
+                  - generic [ref=e971]: •
+                  - generic [ref=e972]: Streamed 6 years ago
+            - button "More actions" [ref=e975]:
+              - generic [ref=e979]:
+                - img
+        - generic [ref=e984] [cursor=pointer]:
+          - link [ref=e985]:
+            - /url: /watch?v=HstC4Nm55PU
+            - generic [ref=e992]: 1:08:48
+          - generic [ref=e994]:
+            - generic [ref=e995]:
+              - heading "Informatica IDQ Training for Beginner | Informatica Data Quality Tutorial 1 hour, 8 minutes" [level=3] [ref=e996]:
+                - link "Informatica IDQ Training for Beginner | Informatica Data Quality Tutorial 1 hour, 8 minutes" [ref=e997]:
+                  - /url: /watch?v=HstC4Nm55PU
+                  - text: Informatica IDQ Training for Beginner | Informatica Data Quality Tutorial
+              - generic [ref=e999]:
+                - generic [ref=e1001]: TEK CLASSES
+                - generic [ref=e1002]:
+                  - generic [ref=e1003]: 38K views
+                  - generic [ref=e1004]: •
+                  - generic [ref=e1005]: 8 years ago
+            - button "More actions" [ref=e1008]:
+              - generic [ref=e1012]:
+                - img
+        - generic [ref=e1017] [cursor=pointer]:
+          - link [ref=e1018]:
+            - /url: /watch?v=J326LIUrZM8
+            - generic [ref=e1025]: 1:38:50
+          - generic [ref=e1027]:
+            - generic [ref=e1028]:
+              - heading "Data Warehouse Tutorial For Beginners | Data Warehouse Concepts | Data Warehousing | Edureka 1 hour, 38 minutes" [level=3] [ref=e1029]:
+                - link "Data Warehouse Tutorial For Beginners | Data Warehouse Concepts | Data Warehousing | Edureka 1 hour, 38 minutes" [ref=e1030]:
+                  - /url: /watch?v=J326LIUrZM8
+                  - text: Data Warehouse Tutorial For Beginners | Data Warehouse Concepts | Data Warehousing | Edureka
+              - generic [ref=e1032]:
+                - generic [ref=e1034]:
+                  - text: edureka!
+                  - img [ref=e1037]:
+                    - generic [ref=e1039]:
+                      - img
+                - generic [ref=e1040]:
+                  - generic [ref=e1041]: 1M views
+                  - generic [ref=e1042]: •
+                  - generic [ref=e1043]: 8 years ago
+            - button "More actions" [ref=e1046]:
+              - generic [ref=e1050]:
+                - img

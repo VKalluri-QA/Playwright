@@ -5,3 +5,5 @@ function testing() {
        a=30;
        var b=30;
 }
+//for loop;
+//while loop;
